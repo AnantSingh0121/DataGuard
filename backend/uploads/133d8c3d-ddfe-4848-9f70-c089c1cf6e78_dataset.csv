@@ -1,0 +1,13 @@
+customer_id,name,email,age,gender,country,signup_date,last_purchase_date,purchase_amount,churn
+C001,Arjun Mehta,arjun.mehta@gmail.com,28,Male,India,2022-05-14,2024-03-10,15999.5,No
+C002,Arya Tiwari,aryatiwari@@mail,25,FEMALE,Indai,2021-11-10,2021-10-30,8799.0,Yes
+C003,,rajiv.singh@outlook.com,abc,Male,India,2020-02-20,2024-01-01,ten,No
+C004,Manav Patel,manav.patel@domain.com,35,M,India,2023/07/10,2023-07-05,12000,No
+C005,Simran Kaur,simrankaur@domain,29,female,,2022-14-05,2023-01-01,5500,No
+C006,John Doe,john.doe@gmail.com,42,Male,USA,2021-06-10,2022-02-15,8300.75,No
+C007,John Doe,john.doe@gmail.com,42,Male,USA,2021-06-10,2022-02-15,8300.75,No
+C008,Lina Chen,lina.chen@domain.com,27,FEMALE,China,2023-01-01,2023-12-01,NaN,No
+C009,Amit Sharma,amit.sharma@mail.com,120,Male,India,2020-10-15,2021-02-10,6200,No
+C010,Neha Verma,neha.verma@gmail.com,31,Female,India,2019-03-05,2019-03-04,8900,Yes
+C011,Ravi Kumar,ravi.kumar@mail,23,Male,India,2019-04-10,2024-05-10,5000,No
+C012,Sara Lee,sara.lee@domain.com,26,FEMALE,China,2021-11-05,2021-12-15,7200,No

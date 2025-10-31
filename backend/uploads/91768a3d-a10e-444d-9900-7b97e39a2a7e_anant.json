@@ -1,0 +1,82 @@
+[
+  {
+    "Customer_ID": 101,
+    "Name": "Alice Johnson",
+    "Age": 29,
+    "Email": "alice.johnson@example.com",
+    "Signup_Date": "2023-05-12",
+    "Country": "USA",
+    "Revenue": 4200.50,
+    "Gender": "Female"
+  },
+  {
+    "Customer_ID": 102,
+    "Name": "Bob Smith",
+    "Age": "Thirty",
+    "Email": "bob.smith@example.com",
+    "Signup_Date": "12-05-2023",
+    "Country": "U.S.A",
+    "Revenue": 3800.75,
+    "Gender": "male"
+  },
+  {
+    "Customer_ID": 103,
+    "Name": "Carol Lee",
+    "Age": 34,
+    "Email": "carol.lee@example.com",
+    "Signup_Date": "2023/05/14",
+    "Country": "usa ",
+    "Revenue": null,
+    "Gender": "Female"
+  },
+  {
+    "Customer_ID": 104,
+    "Name": "David Kim",
+    "Age": null,
+    "Email": "david.kim@example.com",
+    "Signup_Date": "InvalidDate",
+    "Country": "South Korea",
+    "Revenue": 999999,
+    "Gender": "Male"
+  },
+  {
+    "Customer_ID": 105,
+    "Name": "Eva Brown",
+    "Age": 28,
+    "Email": null,
+    "Signup_Date": "2023-05-18",
+    "Country": "canada",
+    "Revenue": 4500.00,
+    "Gender": "female"
+  },
+  {
+    "Customer_ID": 105,
+    "Name": "Eva Brown",
+    "Age": 28,
+    "Email": null,
+    "Signup_Date": "2023-05-18",
+    "Country": "canada",
+    "Revenue": 4500.00,
+    "Gender": "female"
+  },
+  {
+    "Customer_ID": 106,
+    "Name": "Frank Zhang",
+    "Age": 120,
+    "Email": "frank.zhang@example.com",
+    "Signup_Date": "2023-13-01",
+    "Country": "China",
+    "Revenue": -500,
+    "Gender": "Male"
+  },
+  {
+    "Customer_ID": 107,
+    "Name": "Grace Lee",
+    "Age": "",
+    "Email": "grace.lee@example.com",
+    "Signup_Date": "2023-05-20",
+    "Country": "south korea",
+    "Revenue": 5200.00,
+    "Gender": "FEMALE"
+  }
+]

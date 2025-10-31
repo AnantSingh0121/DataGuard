@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "tests_run": 8,
+    "tests_passed": 8,
+    "success_rate": 100.0
+  },
+  "results": [
+    {
+      "test": "User Signup",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-10-29T17:52:32.061672"
+    },
+    {
+      "test": "Login with Invalid Credentials",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-10-29T17:52:32.097875"
+    },
+    {
+      "test": "Get User Profile",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-10-29T17:52:32.136794"
+    },
+    {
+      "test": "Upload Dataset",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-10-29T17:52:32.194324"
+    },
+    {
+      "test": "Get User Datasets",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-10-29T17:52:32.230739"
+    },
+    {
+      "test": "Analyze Dataset",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-10-29T17:52:32.375276"
+    },
+    {
+      "test": "Download PDF Report",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-10-29T17:52:32.420068"
+    },
+    {
+      "test": "Delete Dataset",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-10-29T17:52:32.456251"
+    }
+  ],
+  "timestamp": "2025-10-29T17:52:32.457189"
+}
